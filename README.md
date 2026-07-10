@@ -1,7 +1,11 @@
 # Email/SMS Spam Classifier
 
 A simple machine learning web app that detects whether a message is spam or not. Built using Python, Scikit-learn, and Streamlit.
+    ## Live Demo
+      Try it here: https://email-sms-spam-classifier-ze5tnmyqpevjvchvrtz8lc.streamlit.app/
 
+
+      
 ## What it does
 
 You type or paste any email or SMS message into the app, and it predicts whether the message is spam or a normal (ham) message. It uses natural language processing to clean the text and a trained ML model to make the prediction.
